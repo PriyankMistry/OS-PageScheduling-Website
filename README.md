@@ -14,7 +14,7 @@ A website for understanding the concept of scheduling algorithms in Operating Sy
 ### Instructions
 
 * Git clone the file.
-* Click on index.html
+* Open the home.html file on your web browser.
 
 ### LIVE App
 
